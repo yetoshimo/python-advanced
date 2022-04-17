@@ -1,0 +1,3 @@
+{"id": 1, "name": "prod1", "img_path": "", "count": 1}
+{"id": 2, "name": "prod2", "img_path": "", "count": 2}
+{"id": 3, "name": "prod3", "img_path": "", "count": 3}
